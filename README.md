@@ -1,2 +1,2 @@
 # SQLDemos
- Dem
+ Demonstrations for SQL Server features.
