@@ -1,7 +1,8 @@
 # Filestream/FileTable with TDE Demo
  Demonstration creating FILESTREAM and FILETABLE with Transparent Data Encryption (TDE).
  
- WARNING: EDUCATIONAL USE ONLY. DO NOT USE THIS ON A PRODCUTION SYSTEM. ALWAYS TEST.
+### WARNING: 
+EDUCATIONAL USE ONLY. DO NOT USE THIS ON A PRODCUTION SYSTEM. ALWAYS TEST.
  
 ## Requirements
 	SQL Server 2017, may work with other version after 2008, but not tested.
