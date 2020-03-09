@@ -22,7 +22,7 @@ EXEC sp_configure filestream_access_level
 GO
 RETURN
 
-
+-- TODO: Add instructions for setting up filestream
 
 ------------------------------
 -- Create database
@@ -89,7 +89,7 @@ SELECT * FROM [FileStreamDemo].[dbo].[DocumentStore]
 
 ------------------------------
 -- View
--- \\\MININT-CRVFHAB\INS1_FSShare\DocumentTable\DocumentTable
+-- \\\[Your machine name]\INS1_FSShare\DocumentTable\DocumentTable
 ------------------------------
 
 
